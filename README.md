@@ -4,7 +4,7 @@
 
 Make your terminal have a theme that is easy on the eyes and increase your terminal history so that you can search for stuff.
 
-1. Download the Solarized Dark Higher Contrast.terminal file
+1. Download the Solarized Dark Higher Contrast.terminal file. (Make sure you download it as a .terminal file)
 2. Right click on downloaded file and click open and agree to permissions.
 3.  Open Terminal and type 
 ```
@@ -23,8 +23,9 @@ export HISTFILESIZE=2000
 7. Click **Terminal** > **Preferences**, then make sure your **Text** and **Window** tabs look like this.
 ![Terminal Preferences Text tab](https://github.com/jaketripp/terminal-settings/blob/master/text.png "Terminal Preferences Text tab")
 ![Terminal Preferences Window tab](https://github.com/jaketripp/terminal-settings/blob/master/window.png "Terminal Preferences Window tab")
-8. You may need to restart your terminal again.
-9. Enjoy!
+8. Click **Default** to save your settings as the default (lower left corner) 
+9. Restart your terminal with **Command+Q**
+10. Enjoy!
 
 Theme: https://github.com/lysyi3m/osx-terminal-themes
 
